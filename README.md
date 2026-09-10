@@ -144,8 +144,7 @@ MineGuard_project_SIH/
 ├── assets/screenshots/        # Evidence: photos + screenshots
 │
 └── submission/                # PPT, demo video link, etc.
-    ├── PRESENTATION.md
-    └── DEMO.md
+    |── PRESENTATION.md
 ```
 
 ## 9. Installation & Setup
