@@ -22,6 +22,4 @@ The presentation covers:
 
 The presentation refers to the idea as **"SmartFog"** in places — this is the same project as **MineGuard**, the name used throughout this repository's code and documentation.
 
-## Editable version
 
-An editable `.pptx` version can be added here as well if needed for judges who prefer to open it directly in PowerPoint, rather than the PDF.
