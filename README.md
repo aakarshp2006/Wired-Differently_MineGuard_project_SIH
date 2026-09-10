@@ -143,7 +143,7 @@ MineGuard_project_SIH/
 │
 ├── assets/screenshots/        # Evidence: photos + screenshots
 │
-└── submission/                # PPT, demo video link, etc.
+└── submission/                # PPT, etc.
     |── PRESENTATION.md
 ```
 
