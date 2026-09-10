@@ -1,0 +1,43 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.venv/
+venv/
+env/
+ENV/
+
+# ===== Code Runner / editor temp files =====
+tempCodeRunnerFile.py
+*.tmp
+*~
+
+# ===== IDE / editor settings =====
+.vscode/
+.idea/
+*.iml
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Logs =====
+*.log
+
+# ===== Secrets — never commit these =====
+.env
+.env.local
+*.pem
+*.key
+secrets.txt
+
+# ===== Arduino build artifacts (if present) =====
+build/
+*.hex
+*.bin
+
+# ===== Backup / working copies (project-specific) =====
+*_BACKUP/
+*_backup/
