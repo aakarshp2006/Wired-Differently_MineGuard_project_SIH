@@ -257,7 +257,7 @@ The immediate next phase focuses on **improving and hardening the existing proto
 | Pranav Bhasin | System Integration / Communication |
 | Asya Gupta | Dashboard / Documentation & Presentation |
 
-## 16. Demo & Presentation
+## 16. Presentation
 
 - Presentation: see [`submission/PRESENTATION.md`](submission/PRESENTATION.md)
 
