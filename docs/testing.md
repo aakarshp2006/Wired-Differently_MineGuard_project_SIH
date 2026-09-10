@@ -46,10 +46,4 @@ Several parts of MineGuard have been run and shown working (see [`assets/screens
 | Emergency stop | Yes (behavior implemented, triggers on critical risk) | `[TEST COUNT NOT RECORDED]` |
 | Fog detection | Yes (live output implemented) | Formal real-fog testing not yet conducted |
 
-## 8. Planned formal testing (before final submission, if time permits)
 
-- [ ] Measure HC-SR04 readings against a tape measure at fixed distances (e.g. 10 cm, 50 cm, 1 m, 2 m) and record error.
-- [ ] Compare encoder-derived speed against a manually timed reference speed over a known distance.
-- [ ] Record YOLO detection success/failure at a set of fixed distances to establish a reliable detection range.
-- [ ] Run a documented number of emergency-stop trials and record the success count.
-- [ ] If possible, test fog detection under an actual or simulated low-visibility condition and record the result.
