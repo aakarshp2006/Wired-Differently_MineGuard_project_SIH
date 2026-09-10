@@ -259,7 +259,6 @@ The immediate next phase focuses on **improving and hardening the existing proto
 
 ## 16. Demo & Presentation
 
-- Demo video: see [`submission/DEMO.md`](submission/DEMO.md)
 - Presentation: see [`submission/PRESENTATION.md`](submission/PRESENTATION.md)
 
 ## 17. Important Note
